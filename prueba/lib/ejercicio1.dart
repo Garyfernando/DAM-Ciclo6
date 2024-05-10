@@ -31,6 +31,7 @@ void main() {
   double resultadoResta = operacionDerivada.resta(5, 3);
   double resultadoMultiplicacion = operacionDerivada.multiplicacion(5, 3);
   double resultadoDivision = operacionDerivada.division(6, 2);
+  print('Ejercicio UNO');
   print('Hecho por: Yunganina Mamani Gary Fernando');
   print('_______________________________________________________');
   print('Resultado de la suma: $resultadoSuma');
