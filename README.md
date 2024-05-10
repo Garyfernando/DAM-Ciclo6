@@ -1,4 +1,5 @@
-# DAM-Ciclo6
-![EJERCICIO UNO](https://github.com/Garyfernando/DAM-Ciclo6/blob/main/img/EjercicioUNO.png)
+![Descripción del ejercicio uno](URL_de_la_imagen_uno)
+Descripción del ejercicio uno
 
-![EJERCICIO DOS](https://github.com/Garyfernando/DAM-Ciclo6/blob/main/img/EjercicioDOS.png)
+![Descripción del ejercicio dos](URL_de_la_imagen_dos)
+Descripción del ejercicio dos
