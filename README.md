@@ -1,4 +1,4 @@
-# DAM-Ciclo6
+# YUNGANINA MAMANI GARY FERNANDO
 EJERCICIO UNO
 
 ![EJERCICIO UNO](https://github.com/Garyfernando/DAM-Ciclo6/blob/main/img/EjercicioUNO.png)
